@@ -9,3 +9,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.trafficlight {
+    background-color: black;
+    padding: 10px;
+    display: in-line-block;
+    margin: auto;
+    width: 120px;
+    }
+
+.light{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+  }
+  /* .red, .yellow, .green {
+    margin: 10px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; */
+.red{ background: red; }
+.yellow{ background: yellow; }
+.green{ background: green; }
+
+.glow {
+    box-shadow: 0px 0px 9px 4px #747DE8;
+};
